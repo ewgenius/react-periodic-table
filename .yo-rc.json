@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "reactPeriodicTable",
+    "style": "scss",
+    "postcss": false
+  }
+}
